@@ -1,0 +1,21 @@
+
+.benefits-list {
+    display: flex;
+    /* gap: 30px;  */
+}
+.benefits-items {
+    margin-right: 30px;
+}
+.benefits-soc-list {
+    display: flex;
+    justify-content: center;
+}
+.benefits-soc-item {
+    background: rgba(245, 244, 250, 1);
+    width: 270px;
+    height: 120px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
